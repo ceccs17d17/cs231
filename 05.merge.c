@@ -1,5 +1,9 @@
-//BAMISHA A
-//ROLL NO:17
+/*
+	5.MERGE SORT NON-RECURSIVE
+	NAME :BAMISHA A
+	ROLL No. :17
+	*/
+
 
 #include<stdio.h>
  
@@ -64,3 +68,14 @@ void merge(int a[],int i1,int j1,int i2,int j2)
     for(i=i1,j=0;i<=j2;i++,j++)
         a[i]=temp[j];
 }
+
+OUTPUT:
+	enter the number of elements:4
+	enter the elements 
+	7
+	1
+	4
+	2
+	Sorted list is :
+	1 2 4 7
+
