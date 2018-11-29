@@ -1,3 +1,9 @@
+/*
+    22.INFIX TO POSTFIX
+    NAME :BAMISHA A
+    ROLL No. :17
+    */
+
 #include <stdio.h>
 
 int instackPriority(char symbol) {
@@ -68,3 +74,7 @@ int main () {
   	 }
 printf("\n");
 }
+OUTPUT:
+    Enter the infix form: ((A+B)*(A-B))
+    AB+AB-*
+
