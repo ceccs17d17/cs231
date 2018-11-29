@@ -1,6 +1,8 @@
-//BAMISHA A
-//ROLL NO:17
-
+        /*
+	11,14a.SINGLE LL
+	NAME :BAMISHA A
+	ROLL No. :17
+	*/
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -198,3 +200,177 @@ int main() {
 	
 	return (0);
 }
+OUTPUT:
+
+	MENU
+	1.insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(front)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:1
+	Enter data: 3
+
+	MENU
+	1.insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(front)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:1
+	Enter data: 4
+
+	MENU
+	1.insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(front)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:8
+	4 -> 3 -> NULL
+	MENU
+	1.insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(front)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:2
+	Enter data: 1
+
+	MENU
+	1.insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(front)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:8
+	4 -> 3 -> 1 -> NULL
+	MENU
+	1.insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(front)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:3
+	Enter key: 3
+	Enter data: 2
+
+	MENU
+	1.insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(front)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:8
+	4 -> 3 -> 2 -> 1 -> NULL
+	MENU
+	1.insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(front)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:4
+
+	MENU
+	1.insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(front)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:8
+	3 -> 2 -> 1 -> NULL
+	MENU
+	1.insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(front)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:5
+
+	MENU
+	1.insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(front)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:8
+	3 -> 2 -> NULL
+	MENU
+	1.insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(front)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:6
+	Enter key: 2
+
+	MENU
+	1.insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(front)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:8
+	3 -> NULL
+	MENU
+	1.insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(front)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:7
+	Enter key: 3
+
+	Element found at 1
+	MENU
+	1.insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(front)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:9
