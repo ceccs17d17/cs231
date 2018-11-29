@@ -1,3 +1,6 @@
+//BAMISHA A
+//ROLL NO:17
+
 #include <stdio.h>
 
 int selectionSort(int array[], int size) {
