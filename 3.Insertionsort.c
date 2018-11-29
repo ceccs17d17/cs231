@@ -1,3 +1,6 @@
+//BAMISHA A
+//ROLL NO:17
+
 #include <stdio.h>
 
 int insertionSort(int array[], int size) {
