@@ -1,3 +1,6 @@
+//BAMISH A
+//ROLL NO:17
+
 #include<stdio.h>
 #include<stdlib.h>
 
