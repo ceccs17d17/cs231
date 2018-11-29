@@ -1,3 +1,9 @@
+        /*
+	16.POLYNOMIAL ADDITION
+	NAME :BAMISHA A
+	ROLL No. :17
+	*/
+
 #include <stdio.h>
 #include <stdlib.h>
 struct node {
@@ -142,3 +148,31 @@ int main() {
 	
 	return (0);
 }
+OUTPUT:
+	Polynomial 1 
+	Enter coefficient: 2
+	Enter exponent: 2
+	1. Add more elements
+	2. Continue
+	Enter choice: 1
+	Enter coefficient: 3
+	Enter exponent: 1
+	1. Add more elements
+	2. Continue
+	Enter choice: 1 2
+	polynomial 2 
+	Enter coefficient: 3
+	Enter exponent: 3
+	1. Add more elements
+	2. Continue
+	Enter choice: 1
+	Enter coefficient: 6
+	Enter exponent: 1
+	1. Add more elements
+	2. Continue
+	Enter choice: 2
+
+	F(s) = F(a) + F(b)
+	F(a) = 2X^2 + 3X^1 + 0
+	F(b) = 3X^3 + 6X^1 + 0
+	F(s) = 3X^3 + 2X^2 + 9X^1 + 0
