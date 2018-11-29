@@ -1,3 +1,10 @@
+/*
+	19.STACK USING LL
+	NAME :BAMISHA A
+	ROLL No. :17
+	*/
+
+
 #include<stdio.h>
 #include<stdlib.h>
 struct node{
@@ -79,3 +86,37 @@ void main()
 		}
 		while(choice!=4);
 }
+OUTPUT:
+
+	CHOOSE
+	1.PUSH
+	2.POP
+	3.DISPLAY
+	1
+	enter the element: 2
+
+	CHOOSE
+	1.PUSH
+	2.POP
+	3.DISPLAY
+	1
+	enter the element: 5
+
+	CHOOSE
+	1.PUSH
+	2.POP
+	3.DISPLAY
+	3
+	elements: 5 ->2 ->NULL
+	CHOOSE
+	1.PUSH
+	2.POP
+	3.DISPLAY
+	2
+	popped out: 5
+	CHOOSE
+	1.PUSH
+	2.POP
+	3.DISPLAY
+	3
+	elements: 2 ->NULL
