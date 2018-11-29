@@ -1,3 +1,8 @@
+/*
+	21.REPRESENTATION OF ARITHMETIC EXPRESSION
+	NAME :BAMISHA A
+	ROLL No. :17
+	*/
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -64,3 +69,6 @@ int main()
 	
 	return (0);
 }
+OUTPUT:
+	Enter arithmatic expression : (A+B)/(A*B)
+	Entered experssion : (A+B)/(A*B)
