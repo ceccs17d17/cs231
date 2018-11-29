@@ -1,6 +1,8 @@
-//BAMISHA A
-//ROLL NO:17
-
+    /*
+	12,14b.DOUBLE LL
+	NAME :BAMISHA A
+	ROLL No. :17
+	*/
 #include<stdio.h>
 #include<stdlib.h>
 
@@ -140,3 +142,143 @@ void main()
         }
     }while(choice==1 || choice==2 || choice==3 || choice==4 || choice==5);
 }
+
+OUTPUT:
+
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:1
+	Enter data: 1
+
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:2
+	Enter data: 2
+
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:8
+	1 -> 2 -> NULL
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:3
+	Enter key: 3 1
+	Enter data: 3
+
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:8
+	1 -> 3 -> 2 -> NULL
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:4
+
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:8
+	3 -> 2 -> NULL
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:5
+
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:8
+	3 -> NULL
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:6
+	Enter key: 3
+
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:8
+	NULL
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:7
+	Empty list!!!
