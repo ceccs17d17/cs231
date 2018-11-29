@@ -1,5 +1,8 @@
-//BAMISHA A
-//ROLL NO:17
+       /*
+	26.QUEUE USING ARRAY
+	NAME :BAMISHA A
+	ROLL No. :17
+	*/
 
 #include <stdio.h>
 
@@ -76,3 +79,45 @@ int main() {
 		}
 	} while(choice != '4');
 }
+OUTPUT:
+
+	choose
+	1.Insertion
+	2.Deletion
+	3.Display
+	1
+	Enter the value of element: 3
+
+	choose
+	1.Insertion
+	2.Deletion
+	3.Display
+	1
+	Enter the value of element: 2
+
+	choose
+	1.Insertion
+	2.Deletion
+	3.Display
+	3
+	3 -> 2 -> 
+	Front: 1
+	End: 2
+	choose
+	1.Insertion
+	2.Deletion
+	3.Display
+	2
+	Deleted 3
+	choose
+	1.Insertion
+	2.Deletion
+	3.Display
+	3
+	2 -> 
+	Front: 2
+	End: 2
+	choose
+	1.Insertion
+	2.Deletion
+	3.Display
