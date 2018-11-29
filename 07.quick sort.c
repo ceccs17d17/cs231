@@ -1,3 +1,10 @@
+/*
+	7.QUICK SORT NON-RECURSIVE
+	NAME :BAMISHA A
+	ROLL No. :17
+	*/
+
+
 #include<stdio.h>
  void main()
  {
@@ -48,3 +55,14 @@
  else
   printf("Position may be become %d",mid+1);
  }
+
+OUTPUT:
+	Enter size of the array : 3
+	Enter array elements
+	7
+	1
+	4
+	Sorted Array
+	1
+	4
+	7
