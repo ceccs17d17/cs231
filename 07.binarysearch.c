@@ -1,5 +1,8 @@
-//BAMISHA A
-//ROLL NO:17
+        /*
+	10.BINARY SEARCH
+	NAME :BAMISHA A
+	ROLL No. :17
+	*/
 
 #include <stdio.h>
 
@@ -61,3 +64,11 @@ int main() {
 		printf("Element not found\n");
 	}
 }
+       OUTPUT:
+	Enter the size 4
+	Enter elements 1 
+	3
+	5
+	7
+	Enter the element to be searched:5
+	element found at location 3 
