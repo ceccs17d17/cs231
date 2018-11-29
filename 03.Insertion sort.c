@@ -1,5 +1,9 @@
-//BAMISHA A
-//ROLL NO:17
+        /*
+	3.INSERTION SORT
+	NAME :ASHISH MATHEW JOHN
+	ROLL No. :13
+	*/
+
 
 #include <stdio.h>
 
@@ -31,3 +35,12 @@ void main() {
 		printf("%d\n", array[i]);
 	}
 }
+
+        OUTPUT:
+	Enter the size:4
+	Enter the elements1
+	3
+	2
+	7
+	After Sorting 
+	1237
