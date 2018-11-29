@@ -1,7 +1,7 @@
     /*
 	14.CIRCULAR DOUBLY LL
-	NAME :ASHISH MATHEW JOHN
-	ROLL No. :13
+	NAME :BAMISHA A
+	ROLL No. :17
 	*/
 #include<stdio.h>
 #include<stdlib.h>
