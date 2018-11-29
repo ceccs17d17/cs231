@@ -1,3 +1,10 @@
+       /*
+	8.QUICK SORT RECURSIVE
+	NAME :BAMISHA A
+	ROLL No. :17
+	*/
+
+
 #include<stdio.h>
 
 int quick(int a[],int l,int h){
@@ -55,3 +62,13 @@ int main(){
 	printf("\n");
 	return 0;
 }
+OUTPUT:
+	Enter the size
+	4
+	Enter the elements
+	1
+	6
+	2
+	4
+	Sorted array
+	1 2 4 6
