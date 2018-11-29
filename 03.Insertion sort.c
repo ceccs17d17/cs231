@@ -1,7 +1,7 @@
         /*
 	3.INSERTION SORT
-	NAME :ASHISH MATHEW JOHN
-	ROLL No. :13
+	NAME :BAMISHA A
+	ROLL No. :17
 	*/
 
 
