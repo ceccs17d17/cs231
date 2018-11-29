@@ -1,7 +1,7 @@
 /*
 	33.BINARY TREE USING ARRAY
-	NAME :ASHISH MATHEW JOHN
-	ROLL No. :13
+	NAME :BAMSIHA A
+	ROLL No. :17
 	*/
 
 	#include <stdio.h>
