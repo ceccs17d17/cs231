@@ -1,5 +1,8 @@
-//BAMISHA A
-//ROLL NO:17
+        /*
+	4.BUBBLE SORT
+	NAME :BAMISHA A
+	ROLL No. :17
+	*/
 
 #include <stdio.h>
 
@@ -33,3 +36,15 @@ int main() {
 		printf("%d\n", array[i]);
 	}
 }
+
+OUTPUT:
+	enter number of array elements
+	3
+	enter array elements
+	10
+	5
+	8
+	Sorted array:
+	5
+	8
+	10
